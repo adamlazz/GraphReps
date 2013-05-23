@@ -50,7 +50,7 @@ Where 'U' means undirected and '4' denotes that the graph has 4 vertices.
 
 Note: vertices with no adjacencies require a space after the colon.
 
-# Program Purposes & Information
+# Program Purposes & Usage
 ### graphtolist
 Takes an adjacency matrix file as input, and generates graph's normal adjacency list.
 
