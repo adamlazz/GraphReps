@@ -70,7 +70,7 @@ Where the first line contains the number of vertices and edges. All following co
 
 For use with [trick.c](http://mat.gsia.cmu.edu/COLOR/solvers/trick.c).
 
-# Program Purposes & Usage
+# Program Purposes & Usages
 ### graphtolist
 Takes an adjacency matrix file as input, and generates an adjacency list.
 
