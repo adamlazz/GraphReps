@@ -1,7 +1,7 @@
 # GraphReps
 GraphReps is a set of C++ programs that convert representations of graphs.
 
-Uses [GraphDraw.jar](http://multires.caltech.edu/~keenan/GraphDraw/index.html). GraphDraw.jar is a Java program that allows you to draw simple graphs. GraphDraw also allows you to view properly formatted graph files.
+Uses [GraphDraw.jar](http://www.cs.columbia.edu/~keenan/Projects/GraphDraw/). GraphDraw.jar is a Java program that allows you to draw simple graphs. GraphDraw also allows you to view properly formatted graph files.
 
 To create a GraphDraw-formatted adjacency matrix from GraphDraw, use the command:
 
